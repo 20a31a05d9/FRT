@@ -46,5 +46,5 @@ Project demo video link -
 # CONTACT PAGE
 ![Screenshot (101)](https://github.com/20a31a05d9/FRT/assets/109792827/91b6047c-f73b-436f-a3cb-232ec919bee9)
 ![Screenshot (102)](https://github.com/20a31a05d9/FRT/assets/109792827/a2d2c8aa-a04c-41ce-82d6-d53a8f37e298)
-![Screenshot (103)](https://github.com/20a31a05d9/FRT/assets/109792827/ae823928-3898-4226-9e8d-c0ad25fae7ae)
+# CHILD MEDICAL CHATBOT PAGE
 ![Screenshot (104)](https://github.com/20a31a05d9/FRT/assets/109792827/ed84ff0f-d065-4e04-b9b2-6adb7a09c884)
