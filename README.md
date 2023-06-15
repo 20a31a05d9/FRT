@@ -27,7 +27,7 @@ This is a web based application developed for health related based website in in
 
 •Included the testimonials and services and pricing provided by the child care.
 
-# Screenshots of webpage
+## Screenshots of webpage
 
 # HOME PAGE
 ![Screenshot (93)](https://github.com/20a31a05d9/FRT/assets/109792827/c9a32eee-6ec1-4df5-b247-261a400019ba)
@@ -48,4 +48,12 @@ This is a web based application developed for health related based website in in
 ![Screenshot (102)](https://github.com/20a31a05d9/FRT/assets/109792827/a2d2c8aa-a04c-41ce-82d6-d53a8f37e298)
 # CHILD MEDICAL CHATBOT PAGE
 ![Screenshot (105)](https://github.com/20a31a05d9/FRT/assets/109792827/08dd0349-cde2-4b1d-97b3-7b9e94d5117a)
+![Screenshot (106)](https://github.com/20a31a05d9/FRT/assets/109792827/43de91ce-5f4a-452d-b4a0-d9900e5215fc)
 
+
+# Tech Stack
+
+•[Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
+•HTML
+•CSS
+•JavaScript
