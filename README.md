@@ -1,12 +1,11 @@
-# CHILD CARE  # FRT PROJECT
+# CHILD CARE   
+
 This is a web based application developed for health related based website in india
 
-This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
+### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
-Project Link - [https://wonderful-sand-052cea900.2.azurestaticapps.net/ 
-](https://kind-rock-05eb5fa00.3.azurestaticapps.net/)
-
-Project demo video link - 
+**Project Link** - https://kind-rock-05eb5fa00.3.azurestaticapps.net
+**Project demo video link** - https://youtu.be/MOOsgo66pNc
 
 # Azure technologies used for Project
 •Static web apps
@@ -15,15 +14,12 @@ Project demo video link -
 
 # Features and Functionalities
 
-•Interactive and responsive UI.
-
-•Has many graphical and visual innovative effects.
-
-•Have an aesthetically pleasing visual design and architecture.
-
-•Has collection of many web pages including Home, About, Services, Team, Gallery ,Contact,Healthbot, health topics and health related information etc.
-
-•User can know about health information through this website.
+-Interactive and responsive UI.
+-Has many graphical and visual innovative effects.
+-Have an aesthetically pleasing visual design and architecture.
+-Has collection of many web pages including Home, About, Services, Team, Gallery ,Contact,Healthbot, bookings and health related information etc.
+-User can know about health information through this website.
+-Included the testimonials and services and pricing provided by the child care.
 
 # Screenshots of webpage
 
@@ -45,4 +41,5 @@ Project demo video link -
 ![Screenshot (101)](https://github.com/20a31a05d9/FRT/assets/109792827/91b6047c-f73b-436f-a3cb-232ec919bee9)
 ![Screenshot (102)](https://github.com/20a31a05d9/FRT/assets/109792827/a2d2c8aa-a04c-41ce-82d6-d53a8f37e298)
 # CHILD MEDICAL CHATBOT PAGE
-![Screenshot (104)](https://github.com/20a31a05d9/FRT/assets/109792827/ed84ff0f-d065-4e04-b9b2-6adb7a09c884)
+![Screenshot (105)](https://github.com/20a31a05d9/FRT/assets/109792827/08dd0349-cde2-4b1d-97b3-7b9e94d5117a)
+
