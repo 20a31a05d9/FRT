@@ -51,9 +51,12 @@ This is a web based application developed for health related based website in in
 ![Screenshot (106)](https://github.com/20a31a05d9/FRT/assets/109792827/43de91ce-5f4a-452d-b4a0-d9900e5215fc)
 
 
-# Tech Stack
+## Tech Stack
 
 •[Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
+
 •HTML
+
 •CSS
+
 •JavaScript
